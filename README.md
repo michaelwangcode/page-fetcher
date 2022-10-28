@@ -10,5 +10,5 @@ If the download is successful, a message is printed that displays the number of 
 
 `Downloaded and saved 1256 bytes to ./index.html`
 
-Made during Lighthouse Labs (W02D3)
+Made during Lighthouse Labs (W02D3).
 
